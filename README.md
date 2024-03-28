@@ -1,8 +1,7 @@
 ### Hi there 👋, my short name is Egbie Uku
 
 ### Hi there 👋, my short name is Egbie UKu
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
 #### Trained at Founders And Coders
 
