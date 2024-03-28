@@ -5,7 +5,7 @@
 TODO
   - A little bit about me
   - Skills
-  - 
+  - Add a few badges
 #### Trained at Founders And Coders
 
 ## Projects
