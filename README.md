@@ -15,7 +15,6 @@ TODO
 - **Description:** Developed a comprehensive website for a cybersecurity agency, featuring standard sections such as about, contact, and services. 
 - **Highlights:**
   - Designed and implemented secure contact forms to facilitate client communication.
-  - Integrated interactive elements to educate visitors about cybersecurity best practices.
 - **GitHub Repo:** [Cybersecurity website](https://github.com/fac30/WebCyberAgency-Project-Kieran-Egbie)
   
 ### Project 2: Discord Bot with OpenAI Integration
