@@ -1,4 +1,4 @@
-### Hi there 👋, my short name is Egbie Uku
+### Hi there 👋, my name for short is Egbie Uku
 
 
 #### Trained at Founders And Coders
