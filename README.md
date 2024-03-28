@@ -12,7 +12,7 @@ TODO
 
 ### Project 1: Cybersecurity Agency Website
 
-- **Description:** Developed a comprehensive website for a cybersecurity agency, featuring standard sections such as about, contact, and services. Implemented modern design principles and ensured responsiveness across various devices.
+- **Description:** Developed a comprehensive website for a cybersecurity agency, featuring standard sections such as about, contact, and services. 
 - **Highlights:**
   - Designed and implemented secure contact forms to facilitate client communication.
   - Integrated interactive elements to educate visitors about cybersecurity best practices.
@@ -20,7 +20,7 @@ TODO
   
 ### Project 2: Discord Bot with OpenAI Integration
 
-- **Description:** Built a versatile Discord bot capable of performing various tasks within a Discord server. Utilized OpenAI to enable natural language processing, allowing users to ask questions and receive relevant responses.
+- **Description:** Built a versatile Discord bot capable of performing various tasks within a Discord server. Used OpenAI to enable natural language processing to allow users to ask questions and receive  responses.
 - **Highlights:**
   - Implemented direct messaging functionality using OpenAI, enhancing user engagement.
   - Created custom commands and features tailored to the server's needs.
@@ -29,7 +29,7 @@ TODO
 
 ### Project 3: Fullstack Movie Website with Authentication
 
-- **Description:** Developed a full-stack movie website using HTML, CSS, JavaScript, and Express.js. The website includes features such as user authentication, user registration, admin login, and a dashboard for managing movie listings.
+- **Description:** Developed a full-stack movie website using HTML, CSS, JavaScript, and Express.js including features such as user authentication, registration, admin login,dashboard, etc
 - **Highlights:**
   - Implemented secure authentication mechanisms to protect user data.
   - Designed an intuitive user interface for browsing and searching movie listings.
