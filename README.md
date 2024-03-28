@@ -2,6 +2,10 @@
 
 ### A litte bit about to go Here
 
+TODO
+  - A little bit about me
+  - Skills
+  - 
 #### Trained at Founders And Coders
 
 ## Projects
