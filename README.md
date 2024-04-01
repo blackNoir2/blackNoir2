@@ -7,7 +7,7 @@ One of my strengths lies in abstract thinking. I like to take a complex concepts
 I'm methodical and always hungry for knowledge. The pursuit of learning is a constant companion on my journey, driving me to refine and expand my skill set. It's this thirst for growth that led me to embrace organizations like Founders And Coders, where I've honed my craft and emerged as a proficient software developer.
 
 
-And when I'm not knee-deep in lines of code, I like to embrace the world that ensipres me, such as the challenge of keeping both body and mind in top shape. They say a healthy body houses a healthy mind, after all. I also like connecting with like-minded individuals, diving into a good book, films, or simply exploring the wonders of the world, I'm always seeking new avenues for growth and inspiration.
+And when I'm not knee-deep in lines of code, I like to embrace the world that insipres me, such as the challenge of keeping both body and mind in top shape. They say a healthy body houses a healthy mind, after all. I also like connecting with like-minded individuals, diving into a good book, films, or simply exploring the wonders of the world, I'm always seeking new avenues for growth and inspiration.
 
 TODO
 
